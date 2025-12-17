@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:36BCF7&height=80&section=header&text=@NYCTHUNTER&fontSize=48&fontColor=1075ab&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a001f&height=80&section=header&text=@NYCTHUNTER&fontSize=48&fontColor=ff004f&animation=fadeIn" />
 </p>
 
 <!-- TYPING EFFECT -->
-<p align="center"><a href="https://github.com/ulethon"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=600&color=9b5cff&center=true&vCenter=true&width=750&lines=DFIR+%7C+Threat/DarkWeb+Researcher;CTI+%7C+OSINT+%7C+SOCMINT+%7C+DARKINT;Hunting+Threats+in+the+Shadows;Welcome+to+the+Dark+Zone+%F0%9F%91%BE" /></a></p>
+<p align="center"><a href="https://github.com/ulethon"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=600&color=36BCF7&center=true&vCenter=true&width=750&lines=DFIR+%7C+Threat/DarkWeb+Researcher;CTI+%7C+OSINT+%7C+SOCMINT+%7C+DARKINT;Hunting+Threats+in+the+Shadows;Welcome+to+the+Dark+Zone+%F0%9F%91%BE" /></a></p>
 
 ## 👤 WHOAMI.exe
 
