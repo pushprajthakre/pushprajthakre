@@ -11,7 +11,8 @@
 
 ---
 
-## 🌐 Connect With Me<span align="center">
+## 🌐 Connect With Me 
+<span align="center">
   <a href="https://www.linkedin.com/in/pushprajthakre/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" height="24" alt="LinkedIn" /></a><span></span>
   <a href="https://ulethon.gt.tc/?i=1" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="24" height="24" alt="Website" /></a><span></span>
   <a href="https://x.com/nycthunter" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="24" height="24" alt="X (Twitter)" /></a><span></span>
