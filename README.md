@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b0033&height=100&section=header&text=@NYCTHUNTER&fontSize=48&fontColor=ff003c&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:36BCF7&height=80&section=header&text=@NYCTHUNTER&fontSize=48&fontColor=1075ab&animation=fadeIn" />
 </p>
 
 <!-- TYPING EFFECT -->
