@@ -22,4 +22,4 @@
 
 ---
 
-<p align="center"><em>“Learning never stops. Intelligence evolves.”</em><br></p>
+<p align="center"><em style="color:#1a001f;" >“Learning never stops. Intelligence evolves.”</em><br></p>
