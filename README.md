@@ -3,7 +3,7 @@
 </p>
 
 <!-- TYPING EFFECT -->
-<p align="center"><a href="https://github.com/ulethon"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=CTI+%7C+OSINT+%7C+SOCMINT+%7C+HUMINT+%7C+DARKINT;DFIR+%7C+Open+Source+Contributer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/ulethon"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=600&color=9b5cff&center=true&vCenter=true&width=750&lines=DFIR+%7C+Threat+Intelligence+Hunter;CTI+%7C+OSINT+%7C+SOCMINT+%7C+DARKINT;Hunting+Threats+in+the+Shadows;Welcome+to+the+Dark+Anime+Zone+%F0%9F%91%BE" /></a></p>
 
 ## 👤 WHOAMI.exe
 
