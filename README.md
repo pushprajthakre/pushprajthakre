@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a001f&height=80&section=header&text=@NYCTHUNTER&fontSize=48&fontColor=ff004f&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a001f&height=80&section=header&text=@pushprajthakre&fontSize=48&fontColor=ff004f&animation=fadeIn" />
 </p>
 
 <!-- TYPING EFFECT -->
-<p align="center"><a href="https://github.com/ulethon"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&weight=700&pause=800&color=1a001f&center=true&vCenter=true&width=700&lines=DFIR+%7C+Threat/DarkWeb+Researcher;CTI+%7C+OSINT+%7C+SOCMINT+%7C+DARKINT;Hunting+Threats+in+the+Shadows;Welcome+to+the+Dark+Zone+%F0%9F%91%BE" /></a></p>
+<p align="center"><a href="https://github.com/pushprajthakre"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&weight=700&pause=800&color=1a001f&center=true&vCenter=true&width=700&lines=DFIR+%7C+Threat/DarkWeb+Researcher;CTI+%7C+OSINT+%7C+SOCMINT+%7C+DARKINT;Hunting+Threats+in+the+Shadows;Welcome+to+the+Dark+Zone+%F0%9F%91%BE" /></a></p>
 
 ## 👤 WHOAMI.exe
 
-- I am Learner, Want to Know More ? <a href="https://ulethon.gt.tc/?i=1">Visit</a>
+- I am Learner, Want to Know More ? <a href="https://pushpraj.gt.tc/?i=1">Visit</a>
 
 ---
 
